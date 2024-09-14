@@ -37,3 +37,9 @@ Implement proper error handling mechanisms to handle exceptions and edge cases.
 ## Usage
 
 Set Home.aspx page as startup project
+
+##Error Handling
+Application will write to a text file (App_Data/ErrorLog.txt )in case of any runtime errors. 
+
+##Data access
+Using in memory data provider
