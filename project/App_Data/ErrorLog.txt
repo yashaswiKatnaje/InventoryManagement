@@ -1,0 +1,10 @@
+2024-09-14 16:58:17
+Exception Message: Object reference not set to an instance of an object.
+Stack Trace:    at InventoryManagement.ProductManagementNew.AddProduct_Click(Object sender, EventArgs e) in C:\YashEGProject\InventoryManagement\InventoryManagement\WebForms\ProductManagement.aspx.vb:line 27
+
+
+2024-09-14 16:58:40
+Exception Message: Object reference not set to an instance of an object.
+Stack Trace:    at InventoryManagement.ProductManagementNew.AddProduct_Click(Object sender, EventArgs e) in C:\YashEGProject\InventoryManagement\InventoryManagement\WebForms\ProductManagement.aspx.vb:line 27
+
+
